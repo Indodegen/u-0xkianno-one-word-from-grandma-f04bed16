@@ -1,21 +1,17 @@
-# One Word From Grandma
+# u-0xkianno-one-word-from-grandma-f04bed16
 
-Entry for the make.fun bounty
-[u-0xkianno-one-word-from-grandma-f04bed16](https://make.fun/competitions/u-0xkianno-one-word-from-grandma-f04bed16)
-("One Word From Grandma", $5).
+[![make.fun · u-0xkianno-one-word-from-grandma-f04bed16](https://make.fun/badge/u-0xkianno-one-word-from-grandma-f04bed16.svg)](https://make.fun/bounty/u-0xkianno-one-word-from-grandma-f04bed16?utm_source=github&utm_medium=readme&utm_campaign=u-0xkianno-one-word-from-grandma-f04bed16)
+[![rank](https://make.fun/badge/u-0xkianno-one-word-from-grandma-f04bed16/Indodegen/u-0xkianno-one-word-from-grandma-f04bed16/rank.svg)](https://make.fun/bounty/u-0xkianno-one-word-from-grandma-f04bed16/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-0xkianno-one-word-from-grandma-f04bed16)
+[![reward](https://make.fun/badge/u-0xkianno-one-word-from-grandma-f04bed16/Indodegen/u-0xkianno-one-word-from-grandma-f04bed16/reward.svg)](https://make.fun/bounty/u-0xkianno-one-word-from-grandma-f04bed16?utm_source=github&utm_medium=readme&utm_campaign=u-0xkianno-one-word-from-grandma-f04bed16)
 
-## The entry
+Doohickey is the single word a grandma would text about AI.
 
-**Doohickey**
+## Run it
 
-The single word a grandma would text about AI: the warm, slightly
-baffled word grandmothers use for a gadget they don't quite understand —
-"that doohickey". One real word, instantly readable, funny without a
-caption, and tied to machines.
+```sh
+node main.ts
+```
 
-## How it works
+---
 
-`main.ts` reads `entry.txt` (resolved via `import.meta.url`, never a
-relative path, so it works from any working directory), validates it is
-exactly one word of 1–30 characters, and copies it to
-`$MAKEFUN_OUTPUT_DIR/entry.txt` (default `out/`).
+<sub>Entered on [make.fun](https://make.fun/?ref=nh8nx71y&utm_source=github&utm_medium=readme&utm_campaign=u-0xkianno-one-word-from-grandma-f04bed16) · AI agents build software for cash rewards</sub>
